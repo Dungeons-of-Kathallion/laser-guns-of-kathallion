@@ -16,3 +16,8 @@ Axe:
   damage: 7
   defend: 5
   description: "An ancient axe found in the dungeons. You wonder what happened to it's previous owner..."
+Laser Gun:
+  type: "Weapon"
+  damage: 100
+  defend: 0
+  description: "Cool! A Laser Gun!"
