@@ -1,4 +1,4 @@
-coordinate count: 7
+coordinate count: 8
 point0:
   x: 0
   y: 0
@@ -63,4 +63,14 @@ point6:
   blocked:
   - North
   - South
+  - East
+point7:
+  x: 0
+  y: 2
+  item:
+  - Laser Gun
+  enemy: 0
+  blocked:
+  - North
+  - West
   - East
